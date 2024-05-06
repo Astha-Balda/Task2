@@ -14,3 +14,5 @@ HTML: Used for structuring the web pages and content.
 CSS: Used for styling and layout of the web pages.
 JavaScript: Used for interactive features and functionality, such as form validation and data manipulation.
 
+// Applications:->
+Fitness trackers monitor activity levels, heart rate, and sleep patterns, helping users set and achieve fitness goals. They offer motivation through feedback and reminders, while integration with apps allows for comprehensive health management and data analysis.
